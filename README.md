@@ -1,3 +1,4 @@
-# Online-Customers-Purchasing-Intention
-
-In this project,Analyzed the Customer's Intentions based on the transactions, duration and rates made online in a year. The increasing popularity of online shopping has led to the emergence of new economic activities. To succeed in the highly competitive e-commerce environment, it is vital to understand Customer intention. Understanding what motivates consumer intention is critical because such intention is key to survival in this fast-paced and hypercompetitive environment. 
+# Customer Intention Analysis for E-commerce Business Optimization  
+Analyzed customer intentions in e-commerce using a year of online transaction, duration, and interaction rate data. 
+The project aimed to uncover key motivators influencing consumer behavior to support business optimization in a competitive market.
+Findings provided actionable insights to enhance customer engagement and retention strategies
